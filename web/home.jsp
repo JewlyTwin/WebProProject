@@ -24,7 +24,6 @@ and open the template in the editor.
                 background-repeat: no-repeat;
                 background-size: cover;
                 background-image: url("./image/bgindex.jpg");
-                
             }
         </style>
         <title>TODO supply a title</title>
@@ -34,6 +33,7 @@ and open the template in the editor.
     </head>
     <body class="bg">
         <div class="align-items-center d-flex justify-content-center text-center">
+            <image src="">
             <div class="">
                 <br/>
                 <h1>welcome</h1>
